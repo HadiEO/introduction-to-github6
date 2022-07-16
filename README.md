@@ -7,7 +7,7 @@
 
 # Hello GitHub Actions
 
-_Create a GitHub Action and use it in a workflow._
+_Create a GitHub Action and use it in a workflow._ 
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -212,7 +212,7 @@ Your new action will run any time a new commit is created or pushed to the remot
 ### :keyboard: Activity: Trigger the workflow
 
 1. Make a new branch named `test-workflow`.
-1. Commit any change to your branch, such as adding an emoji to your README.md file.
+1. Commit any change to your branch, such as adding an emoji to your README.md file. (my change)
 2. Create the pull request on your branch.
 3. See your action run on your pull request.
 4. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one.
